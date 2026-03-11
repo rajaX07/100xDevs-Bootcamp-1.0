@@ -1,2 +1,2 @@
-# Bootcamp-1.0
+# 100xDevs-Bootcamp-1.0
 Learning to code!
